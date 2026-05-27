@@ -31,11 +31,10 @@ export default function MainLayout() {
               onClick={() => navigate("/")}
               type="button"
             >
-              Volver al inicio
+              Inicio
             </button>
           ) : (
             <span className="rounded-full bg-[#E9B44C]/20 px-3 py-1 text-xs font-bold uppercase tracking-wide text-[#5C3A21]">
-              Trivia
             </span>
           )}
         </nav>

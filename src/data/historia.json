@@ -37,7 +37,7 @@
   },
   {
     "id": 5,
-    "question": "¿Que producto fue clave para la economia salvadorena durante muchos anos?",
+    "question": "¿Que producto fue clave para la economia salvadorena durante muchos años?",
     "image": "",
     "options": ["Cafe", "Petroleo", "Diamantes", "Trigo"],
     "correctAnswer": "Cafe",
@@ -201,7 +201,7 @@
     "id": 23,
     "question": "¿Que conflicto de 1969 involucro a El Salvador y Honduras?",
     "image": "",
-    "options": ["Guerra del Futbol", "Guerra de los Cien Anos", "Guerra del Pacifico", "Guerra de Reforma"],
+    "options": ["Guerra del Futbol", "Guerra de los Cien Años", "Guerra del Pacifico", "Guerra de Reforma"],
     "correctAnswer": "Guerra del Futbol",
     "category": "historia",
     "difficulty": "media"

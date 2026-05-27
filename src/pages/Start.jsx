@@ -98,7 +98,7 @@ export default function Start() {
                         ? "Ahora no fuiste un sabio pipil"
                         : gameState.attemptedCategories[category.id]
                           ? "Intento usado hoy"
-                    : "Comenzar ruta"}
+                    : "Comenzar categoria"}
                   </span>
                 </span>
                 <span className="grid size-14 shrink-0 place-items-center rounded-xl text-sm font-black text-white" style={{ backgroundColor: category.accent }}>
