@@ -10,7 +10,7 @@
   },
   {
     "id": 2,
-    "question": "¿Con que se acompanan comunmente las pupusas?",
+    "question": "¿Con que se acompañan comunmente las pupusas?",
     "image": "",
     "options": ["Curtido y salsa", "Arroz y frijoles", "Pure y ensalada", "Pan y mantequilla"],
     "correctAnswer": "Curtido y salsa",
@@ -28,7 +28,7 @@
   },
   {
     "id": 4,
-    "question": "¿Que bebida salvadorena se prepara con semillas de morro?",
+    "question": "¿Que bebida salvadoreña se prepara con semillas de morro?",
     "image": "",
     "options": ["Horchata", "Cafe", "Chilate", "Refresco de tamarindo"],
     "correctAnswer": "Horchata",
@@ -46,7 +46,7 @@
   },
   {
     "id": 6,
-    "question": "¿Que tipo de tamal salvadoreno se prepara con masa y relleno de pollo o cerdo?",
+    "question": "¿Que tipo de tamal salvadoreño se prepara con masa y relleno de pollo o cerdo?",
     "image": "",
     "options": ["Tamal de gallina", "Tamal oaxaqueno", "Humita", "Hallaca"],
     "correctAnswer": "Tamal de gallina",
@@ -82,7 +82,7 @@
   },
   {
     "id": 10,
-    "question": "¿Que sopa salvadorena se prepara con mondongo o patas de res?",
+    "question": "¿Que sopa salvadoreña se prepara con mondongo o patas de res?",
     "image": "",
     "options": ["Sopa de patas", "Sopa miso", "Pozole", "Ajiaco"],
     "correctAnswer": "Sopa de patas",
@@ -118,7 +118,7 @@
   },
   {
     "id": 14,
-    "question": "¿Que pan dulce salvadoreno suele prepararse con queso?",
+    "question": "¿Que pan dulce salvadoreño suele prepararse con queso?",
     "image": "",
     "options": ["Quesadilla", "Baguette", "Dona", "Pan de muerto"],
     "correctAnswer": "Quesadilla",
@@ -127,7 +127,7 @@
   },
   {
     "id": 15,
-    "question": "¿Que fruta se usa comunmente para hacer empanadas dulces salvadorenas?",
+    "question": "¿Que fruta se usa comunmente para hacer empanadas dulces salvadoreñas?",
     "image": "",
     "options": ["Platano", "Manzana", "Pera", "Uva"],
     "correctAnswer": "Platano",
@@ -136,7 +136,7 @@
   },
   {
     "id": 16,
-    "question": "¿Que relleno pueden llevar las empanadas de platano salvadorenas?",
+    "question": "¿Que relleno pueden llevar las empanadas de platano salvadoreñas?",
     "image": "",
     "options": ["Leche poleada o frijol", "Carne asada", "Queso azul", "Atun"],
     "correctAnswer": "Leche poleada o frijol",
@@ -154,7 +154,7 @@
   },
   {
     "id": 18,
-    "question": "¿Que comida salvadorena se prepara con tortilla gruesa rellena?",
+    "question": "¿Que comida salvadoreña se prepara con tortilla gruesa rellena?",
     "image": "",
     "options": ["Pupusa", "Burrito", "Arepa", "Calzone"],
     "correctAnswer": "Pupusa",
@@ -199,7 +199,7 @@
   },
   {
     "id": 23,
-    "question": "¿Con que suelen comerse los nuégados salvadorenos?",
+    "question": "¿Con que suelen comerse los nuégados salvadoreños?",
     "image": "",
     "options": ["Miel de panela", "Mostaza", "Salsa de tomate", "Mayonesa"],
     "correctAnswer": "Miel de panela",
@@ -208,7 +208,7 @@
   },
   {
     "id": 24,
-    "question": "¿Que producto agricola ha influido mucho en la gastronomia y economia salvadorena?",
+    "question": "¿Que producto agricola ha influido mucho en la gastronomia y economia salvadoreña?",
     "image": "",
     "options": ["Cafe", "Trigo", "Oliva", "Cebada"],
     "correctAnswer": "Cafe",
@@ -219,7 +219,7 @@
     "id": 25,
     "question": "¿Que antojito se hace con masa de maiz, se frie y suele llevar curtido?",
     "image": "",
-    "options": ["Pastelito", "Falafel", "Tequeno", "Croqueta espanola"],
+    "options": ["Pastelito", "Falafel", "Tequeno", "Croqueta española"],
     "correctAnswer": "Pastelito",
     "category": "gastronomia",
     "difficulty": "media"

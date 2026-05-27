@@ -64,7 +64,7 @@
   },
   {
     "id": 8,
-    "question": "¿Que carnaval salvadoreno es uno de los mas conocidos del pais?",
+    "question": "¿Que carnaval salvadoreño es uno de los mas conocidos del pais?",
     "image": "",
     "options": ["Carnaval de San Miguel", "Carnaval de Rio", "Carnaval de Barranquilla", "Carnaval de Oruro"],
     "correctAnswer": "Carnaval de San Miguel",
@@ -109,7 +109,7 @@
   },
   {
     "id": 13,
-    "question": "¿Que personaje de la mitologia salvadorena es hijo de la Siguanaba?",
+    "question": "¿Que personaje de la mitologia salvadoreña es hijo de la Siguanaba?",
     "image": "",
     "options": ["Cipitio", "Cadejo", "Justo Juez", "Padre sin cabeza"],
     "correctAnswer": "Cipitio",
@@ -118,7 +118,7 @@
   },
   {
     "id": 14,
-    "question": "¿Que leyenda salvadorena describe a una mujer que asusta a hombres trasnochadores?",
+    "question": "¿Que leyenda salvadoreña describe a una mujer que asusta a hombres trasnochadores?",
     "image": "",
     "options": ["La Siguanaba", "La Llorona", "La Cegua", "La Tulevieja"],
     "correctAnswer": "La Siguanaba",

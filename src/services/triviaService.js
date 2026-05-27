@@ -5,10 +5,10 @@ import tradicionesQuestions from "../data/tradiciones.json";
 import { shuffleArray } from "../utils/shuffleArray";
 
 export const categories = [
-  { id: "gastronomia", name: "Gastronomia", icon: "MA", accent: "#fdad00", description: "Sabores, maiz y cocina cotidiana." },
-  { id: "lugares", name: "Lugares", icon: "VO", accent: "#3A7D44", description: "Paisajes, volcanes y memoria territorial." },
-  { id: "historia", name: "Historia", icon: "PI", accent: "#2A4D69", description: "Hechos, personajes y raices culturales." },
-  { id: "tradiciones-culturas", name: "Tradiciones y culturas", icon: "NA", accent: "#B85042", description: "Fiestas, simbolos y herencia viva." },
+  { id: "gastronomia", name: "Gastronomia", icon: "G", accent: "#fdad00", description: "Sabores, maiz y cocina cotidiana." },
+  { id: "lugares", name: "Lugares", icon: "L", accent: "#3A7D44", description: "Paisajes, volcanes y memoria territorial." },
+  { id: "historia", name: "Historia", icon: "H", accent: "#2A4D69", description: "Hechos, personajes y raices culturales." },
+  { id: "tradiciones-culturas", name: "Tradiciones y culturas", icon: "TC", accent: "#B85042", description: "Fiestas, simbolos y herencia viva." },
 ];
 
 const questionsByCategory = {

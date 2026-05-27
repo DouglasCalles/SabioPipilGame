@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-    "question": "¿Que sitio arqueologico salvadoreno es conocido como la Pompeya de America?",
+    "question": "¿Que sitio arqueologico salvadoreño es conocido como la Pompeya de America?",
     "image": "",
     "options": ["Joya de Ceren", "Tazumal", "Cihuatan", "San Andres"],
     "correctAnswer": "Joya de Ceren",
@@ -28,7 +28,7 @@
   },
   {
     "id": 4,
-    "question": "¿Que playa salvadorena es famosa para practicar surf?",
+    "question": "¿Que playa salvadoreña es famosa para practicar surf?",
     "image": "",
     "options": ["El Tunco", "Varadero", "Copacabana", "Montanita"],
     "correctAnswer": "El Tunco",
@@ -37,7 +37,7 @@
   },
   {
     "id": 5,
-    "question": "¿Que lago salvadoreno se formo en una caldera volcanica?",
+    "question": "¿Que lago salvadoreño se formo en una caldera volcanica?",
     "image": "",
     "options": ["Lago de Ilopango", "Lago Titicaca", "Lago Yojoa", "Lago Atitlan"],
     "correctAnswer": "Lago de Ilopango",
@@ -199,7 +199,7 @@
   },
   {
     "id": 23,
-    "question": "¿Que playa del oriente salvadoreno es reconocida por sus olas?",
+    "question": "¿Que playa del oriente salvadoreño es reconocida por sus olas?",
     "image": "",
     "options": ["Las Flores", "Costa del Sol", "Metalio", "El Zonte"],
     "correctAnswer": "Las Flores",

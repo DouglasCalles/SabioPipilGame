@@ -28,7 +28,7 @@
   },
   {
     "id": 4,
-    "question": "¿Cual fue una importante ciudad indigena en el territorio salvadoreno?",
+    "question": "¿Cual fue una importante ciudad indigena en el territorio salvadoreño?",
     "image": "",
     "options": ["Cuzcatlan", "Tenochtitlan", "Machu Picchu", "Chichen Itza"],
     "correctAnswer": "Cuzcatlan",
@@ -37,7 +37,7 @@
   },
   {
     "id": 5,
-    "question": "¿Que producto fue clave para la economia salvadorena durante muchos años?",
+    "question": "¿Que producto fue clave para la economia salvadoreña durante muchos años?",
     "image": "",
     "options": ["Cafe", "Petroleo", "Diamantes", "Trigo"],
     "correctAnswer": "Cafe",
@@ -55,7 +55,7 @@
   },
   {
     "id": 7,
-    "question": "¿Que ciudad salvadorena es conocida como la Ciudad Morena?",
+    "question": "¿Que ciudad salvadoreña es conocida como la Ciudad Morena?",
     "image": "",
     "options": ["Santa Ana", "San Vicente", "Ahuachapan", "La Union"],
     "correctAnswer": "Santa Ana",
@@ -64,7 +64,7 @@
   },
   {
     "id": 8,
-    "question": "¿Que procer salvadoreno es recordado por el primer grito de independencia?",
+    "question": "¿Que procer salvadoreño es recordado por el primer grito de independencia?",
     "image": "",
     "options": ["Jose Matias Delgado", "Gerardo Barrios", "Francisco Morazan", "Manuel Jose Arce"],
     "correctAnswer": "Jose Matias Delgado",
@@ -73,7 +73,7 @@
   },
   {
     "id": 9,
-    "question": "¿En que ano ocurrio el primer grito de independencia en San Salvador?",
+    "question": "¿En que año ocurrio el primer grito de independencia en San Salvador?",
     "image": "",
     "options": ["1811", "1821", "1841", "1900"],
     "correctAnswer": "1811",
@@ -82,7 +82,7 @@
   },
   {
     "id": 10,
-    "question": "¿En que ano El Salvador adopto el dolar estadounidense como moneda de curso legal?",
+    "question": "¿En que año El Salvador adopto el dolar estadounidense como moneda de curso legal?",
     "image": "",
     "options": ["2001", "1992", "1980", "2010"],
     "correctAnswer": "2001",
@@ -91,7 +91,7 @@
   },
   {
     "id": 11,
-    "question": "¿Que acuerdo puso fin al conflicto armado salvadoreno?",
+    "question": "¿Que acuerdo puso fin al conflicto armado salvadoreño?",
     "image": "",
     "options": ["Acuerdos de Paz de Chapultepec", "Tratado de Versalles", "Pacto de San Jose", "Tratado de Tordesillas"],
     "correctAnswer": "Acuerdos de Paz de Chapultepec",
@@ -100,7 +100,7 @@
   },
   {
     "id": 12,
-    "question": "¿En que ano se firmaron los Acuerdos de Paz de El Salvador?",
+    "question": "¿En que año se firmaron los Acuerdos de Paz de El Salvador?",
     "image": "",
     "options": ["1992", "1984", "2001", "1979"],
     "correctAnswer": "1992",
@@ -109,7 +109,7 @@
   },
   {
     "id": 13,
-    "question": "¿Que presidente salvadoreno es asociado con reformas liberales y el impulso del cafe?",
+    "question": "¿Que presidente salvadoreño es asociado con reformas liberales y el impulso del cafe?",
     "image": "",
     "options": ["Gerardo Barrios", "Jose Napoleon Duarte", "Maximiliano Hernandez Martinez", "Manuel Enrique Araujo"],
     "correctAnswer": "Gerardo Barrios",
@@ -145,7 +145,7 @@
   },
   {
     "id": 17,
-    "question": "¿Que pais conquisto gran parte del territorio salvadoreno durante la colonia?",
+    "question": "¿Que pais conquisto gran parte del territorio salvadoreño durante la colonia?",
     "image": "",
     "options": ["Espana", "Francia", "Portugal", "Inglaterra"],
     "correctAnswer": "Espana",
@@ -172,7 +172,7 @@
   },
   {
     "id": 20,
-    "question": "¿En que ano El Salvador se declaro republica independiente?",
+    "question": "¿En que año El Salvador se declaro republica independiente?",
     "image": "",
     "options": ["1841", "1821", "1811", "1901"],
     "correctAnswer": "1841",
@@ -181,7 +181,7 @@
   },
   {
     "id": 21,
-    "question": "¿Que arzobispo salvadoreno fue canonizado como santo?",
+    "question": "¿Que arzobispo salvadoreño fue canonizado como santo?",
     "image": "",
     "options": ["Oscar Arnulfo Romero", "Jose Matias Delgado", "Arturo Rivera y Damas", "Gregorio Rosa Chavez"],
     "correctAnswer": "Oscar Arnulfo Romero",
@@ -217,7 +217,7 @@
   },
   {
     "id": 25,
-    "question": "¿Que simbolo patrio salvadoreno incluye cinco volcanes?",
+    "question": "¿Que simbolo patrio salvadoreño incluye cinco volcanes?",
     "image": "",
     "options": ["Escudo nacional", "Flor nacional", "Ave nacional", "Mapa turistico"],
     "correctAnswer": "Escudo nacional",
