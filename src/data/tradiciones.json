@@ -1,0 +1,227 @@
+[
+  {
+    "id": 1,
+    "question": "¿Que celebracion se realiza cada agosto en honor al Divino Salvador del Mundo?",
+    "image": "",
+    "options": ["Fiestas Agostinas", "Semana Santa", "Dia de la Cruz", "Fiestas Julias"],
+    "correctAnswer": "Fiestas Agostinas",
+    "category": "tradiciones-culturas",
+    "difficulty": "facil"
+  },
+  {
+    "id": 2,
+    "question": "¿Que tradicion consiste en colocar una cruz adornada con frutas y flores?",
+    "image": "",
+    "options": ["Dia de la Cruz", "Dia de los Farolitos", "Bolas de Fuego", "Carnaval de San Miguel"],
+    "correctAnswer": "Dia de la Cruz",
+    "category": "tradiciones-culturas",
+    "difficulty": "facil"
+  },
+  {
+    "id": 3,
+    "question": "¿Que idioma indigena tiene presencia historica en El Salvador?",
+    "image": "",
+    "options": ["Nawat", "Quechua", "Guarani", "Aimara"],
+    "correctAnswer": "Nawat",
+    "category": "tradiciones-culturas",
+    "difficulty": "facil"
+  },
+  {
+    "id": 4,
+    "question": "¿En que municipio se celebra tradicionalmente el Dia de los Farolitos?",
+    "image": "",
+    "options": ["Ahuachapan", "Suchitoto", "La Palma", "San Miguel"],
+    "correctAnswer": "Ahuachapan",
+    "category": "tradiciones-culturas",
+    "difficulty": "media"
+  },
+  {
+    "id": 5,
+    "question": "¿Que artesania es famosa en Ilobasco?",
+    "image": "",
+    "options": ["Figuras de barro", "Sombreros panama", "Vidrio soplado", "Mascaras venecianas"],
+    "correctAnswer": "Figuras de barro",
+    "category": "tradiciones-culturas",
+    "difficulty": "facil"
+  },
+  {
+    "id": 6,
+    "question": "¿Que danza tradicional representa una lucha entre moros y cristianos?",
+    "image": "",
+    "options": ["Historiantes", "Tango", "Cueca", "Jarabe tapatio"],
+    "correctAnswer": "Historiantes",
+    "category": "tradiciones-culturas",
+    "difficulty": "media"
+  },
+  {
+    "id": 7,
+    "question": "¿Que evento tradicional de Nejapa usa esferas encendidas?",
+    "image": "",
+    "options": ["Bolas de Fuego", "Dia de la Cruz", "Farolitos", "Fiestas Julias"],
+    "correctAnswer": "Bolas de Fuego",
+    "category": "tradiciones-culturas",
+    "difficulty": "media"
+  },
+  {
+    "id": 8,
+    "question": "¿Que carnaval salvadoreno es uno de los mas conocidos del pais?",
+    "image": "",
+    "options": ["Carnaval de San Miguel", "Carnaval de Rio", "Carnaval de Barranquilla", "Carnaval de Oruro"],
+    "correctAnswer": "Carnaval de San Miguel",
+    "category": "tradiciones-culturas",
+    "difficulty": "facil"
+  },
+  {
+    "id": 9,
+    "question": "¿Que flor es simbolo nacional de El Salvador?",
+    "image": "",
+    "options": ["Flor de izote", "Rosa", "Orquidea", "Girasol"],
+    "correctAnswer": "Flor de izote",
+    "category": "tradiciones-culturas",
+    "difficulty": "facil"
+  },
+  {
+    "id": 10,
+    "question": "¿Que ave es simbolo nacional de El Salvador?",
+    "image": "",
+    "options": ["Torogoz", "Quetzal", "Condor", "Colibri"],
+    "correctAnswer": "Torogoz",
+    "category": "tradiciones-culturas",
+    "difficulty": "facil"
+  },
+  {
+    "id": 11,
+    "question": "¿Que arbol es simbolo nacional de El Salvador?",
+    "image": "",
+    "options": ["Maquilishuat", "Ceiba", "Pino", "Roble"],
+    "correctAnswer": "Maquilishuat",
+    "category": "tradiciones-culturas",
+    "difficulty": "facil"
+  },
+  {
+    "id": 12,
+    "question": "¿Que personaje festivo usa una estructura de madera y fuegos artificiales?",
+    "image": "",
+    "options": ["Torito pinto", "Cipitio", "Sombreron", "Duende"],
+    "correctAnswer": "Torito pinto",
+    "category": "tradiciones-culturas",
+    "difficulty": "media"
+  },
+  {
+    "id": 13,
+    "question": "¿Que personaje de la mitologia salvadorena es hijo de la Siguanaba?",
+    "image": "",
+    "options": ["Cipitio", "Cadejo", "Justo Juez", "Padre sin cabeza"],
+    "correctAnswer": "Cipitio",
+    "category": "tradiciones-culturas",
+    "difficulty": "media"
+  },
+  {
+    "id": 14,
+    "question": "¿Que leyenda salvadorena describe a una mujer que asusta a hombres trasnochadores?",
+    "image": "",
+    "options": ["La Siguanaba", "La Llorona", "La Cegua", "La Tulevieja"],
+    "correctAnswer": "La Siguanaba",
+    "category": "tradiciones-culturas",
+    "difficulty": "facil"
+  },
+  {
+    "id": 15,
+    "question": "¿Que figura mitologica puede aparecer como perro blanco o negro?",
+    "image": "",
+    "options": ["El Cadejo", "El Cipitio", "La Siguanaba", "El Duende"],
+    "correctAnswer": "El Cadejo",
+    "category": "tradiciones-culturas",
+    "difficulty": "facil"
+  },
+  {
+    "id": 16,
+    "question": "¿Que pueblo es conocido por artesanias pintadas con estilo colorido en Chalatenango?",
+    "image": "",
+    "options": ["La Palma", "Ilobasco", "Nahuizalco", "San Sebastian"],
+    "correctAnswer": "La Palma",
+    "category": "tradiciones-culturas",
+    "difficulty": "media"
+  },
+  {
+    "id": 17,
+    "question": "¿Que municipio es reconocido por textiles y telares tradicionales?",
+    "image": "",
+    "options": ["San Sebastian", "Soyapango", "Ilopango", "La Union"],
+    "correctAnswer": "San Sebastian",
+    "category": "tradiciones-culturas",
+    "difficulty": "media"
+  },
+  {
+    "id": 18,
+    "question": "¿Que tradicion religiosa recorre las calles durante Semana Santa?",
+    "image": "",
+    "options": ["Procesiones", "Carnavales", "Posadas", "Desfiles patrios"],
+    "correctAnswer": "Procesiones",
+    "category": "tradiciones-culturas",
+    "difficulty": "facil"
+  },
+  {
+    "id": 19,
+    "question": "¿Que arte efimero se crea en las calles durante Semana Santa?",
+    "image": "",
+    "options": ["Alfombras de aserrin", "Murales de aceite", "Esculturas de hielo", "Tapices de lana"],
+    "correctAnswer": "Alfombras de aserrin",
+    "category": "tradiciones-culturas",
+    "difficulty": "facil"
+  },
+  {
+    "id": 20,
+    "question": "¿Que fecha patria se celebra con desfiles escolares en El Salvador?",
+    "image": "",
+    "options": ["15 de septiembre", "2 de noviembre", "24 de junio", "31 de diciembre"],
+    "correctAnswer": "15 de septiembre",
+    "category": "tradiciones-culturas",
+    "difficulty": "facil"
+  },
+  {
+    "id": 21,
+    "question": "¿Que instrumento de percusion es comun en bandas de paz escolares?",
+    "image": "",
+    "options": ["Tambor", "Violin", "Arpa", "Acordeon"],
+    "correctAnswer": "Tambor",
+    "category": "tradiciones-culturas",
+    "difficulty": "facil"
+  },
+  {
+    "id": 22,
+    "question": "¿Que actividad artesanal es famosa en Nahuizalco?",
+    "image": "",
+    "options": ["Trabajo en madera y mimbre", "Joyeria de oro", "Ceramica japonesa", "Vidrio murano"],
+    "correctAnswer": "Trabajo en madera y mimbre",
+    "category": "tradiciones-culturas",
+    "difficulty": "media"
+  },
+  {
+    "id": 23,
+    "question": "¿Que celebracion honra a los difuntos en noviembre?",
+    "image": "",
+    "options": ["Dia de los Difuntos", "Dia de la Cruz", "Fiestas Agostinas", "Dia de los Farolitos"],
+    "correctAnswer": "Dia de los Difuntos",
+    "category": "tradiciones-culturas",
+    "difficulty": "facil"
+  },
+  {
+    "id": 24,
+    "question": "¿Que tradicion familiar es comun durante Navidad en El Salvador?",
+    "image": "",
+    "options": ["Compartir tamales", "Pintar huevos", "Hacer fogatas de verano", "Comer pavo frio solamente"],
+    "correctAnswer": "Compartir tamales",
+    "category": "tradiciones-culturas",
+    "difficulty": "facil"
+  },
+  {
+    "id": 25,
+    "question": "¿Que valor cultural se expresa en reuniones familiares y celebraciones comunitarias?",
+    "image": "",
+    "options": ["Convivencia", "Aislamiento", "Competencia extrema", "Silencio obligatorio"],
+    "correctAnswer": "Convivencia",
+    "category": "tradiciones-culturas",
+    "difficulty": "facil"
+  }
+]

@@ -1,0 +1,227 @@
+[
+  {
+    "id": 1,
+    "question": "¿Cual es el platillo mas representativo de El Salvador?",
+    "image": "",
+    "options": ["Pupusa", "Arepa", "Taco", "Empanada"],
+    "correctAnswer": "Pupusa",
+    "category": "gastronomia",
+    "difficulty": "facil"
+  },
+  {
+    "id": 2,
+    "question": "¿Con que se acompanan comunmente las pupusas?",
+    "image": "",
+    "options": ["Curtido y salsa", "Arroz y frijoles", "Pure y ensalada", "Pan y mantequilla"],
+    "correctAnswer": "Curtido y salsa",
+    "category": "gastronomia",
+    "difficulty": "facil"
+  },
+  {
+    "id": 3,
+    "question": "¿De que ingrediente se hacen tradicionalmente las riguas?",
+    "image": "",
+    "options": ["Elote", "Yuca", "Platano", "Arroz"],
+    "correctAnswer": "Elote",
+    "category": "gastronomia",
+    "difficulty": "facil"
+  },
+  {
+    "id": 4,
+    "question": "¿Que bebida salvadorena se prepara con semillas de morro?",
+    "image": "",
+    "options": ["Horchata", "Cafe", "Chilate", "Refresco de tamarindo"],
+    "correctAnswer": "Horchata",
+    "category": "gastronomia",
+    "difficulty": "facil"
+  },
+  {
+    "id": 5,
+    "question": "¿Que comida tipica lleva yuca cocida o frita y chicharron?",
+    "image": "",
+    "options": ["Yuca con chicharron", "Sopa de patas", "Pastelitos", "Tamales pisques"],
+    "correctAnswer": "Yuca con chicharron",
+    "category": "gastronomia",
+    "difficulty": "facil"
+  },
+  {
+    "id": 6,
+    "question": "¿Que tipo de tamal salvadoreno se prepara con masa y relleno de pollo o cerdo?",
+    "image": "",
+    "options": ["Tamal de gallina", "Tamal oaxaqueno", "Humita", "Hallaca"],
+    "correctAnswer": "Tamal de gallina",
+    "category": "gastronomia",
+    "difficulty": "facil"
+  },
+  {
+    "id": 7,
+    "question": "¿Que bebida espesa se sirve tradicionalmente con frijoles y alguashte?",
+    "image": "",
+    "options": ["Atol shuco", "Horchata", "Fresco de ensalada", "Chocolate"],
+    "correctAnswer": "Atol shuco",
+    "category": "gastronomia",
+    "difficulty": "media"
+  },
+  {
+    "id": 8,
+    "question": "¿Que ingrediente principal tienen las pupusas revueltas?",
+    "image": "",
+    "options": ["Queso, frijol y chicharron", "Pollo y arroz", "Pescado y tomate", "Papa y zanahoria"],
+    "correctAnswer": "Queso, frijol y chicharron",
+    "category": "gastronomia",
+    "difficulty": "facil"
+  },
+  {
+    "id": 9,
+    "question": "¿Que dulce tradicional se elabora con panela y coco?",
+    "image": "",
+    "options": ["Conserva de coco", "Dulce de leche", "Mazapan", "Alfajor"],
+    "correctAnswer": "Conserva de coco",
+    "category": "gastronomia",
+    "difficulty": "media"
+  },
+  {
+    "id": 10,
+    "question": "¿Que sopa salvadorena se prepara con mondongo o patas de res?",
+    "image": "",
+    "options": ["Sopa de patas", "Sopa miso", "Pozole", "Ajiaco"],
+    "correctAnswer": "Sopa de patas",
+    "category": "gastronomia",
+    "difficulty": "media"
+  },
+  {
+    "id": 11,
+    "question": "¿Que refresco tipico mezcla frutas picadas en agua dulce?",
+    "image": "",
+    "options": ["Fresco de ensalada", "Limonada", "Tiste", "Jugo de naranja"],
+    "correctAnswer": "Fresco de ensalada",
+    "category": "gastronomia",
+    "difficulty": "facil"
+  },
+  {
+    "id": 12,
+    "question": "¿Que comida tipica suele venderse en fiestas patronales y lleva masa frita rellena?",
+    "image": "",
+    "options": ["Pastelitos", "Sushi", "Croissant", "Pizza"],
+    "correctAnswer": "Pastelitos",
+    "category": "gastronomia",
+    "difficulty": "facil"
+  },
+  {
+    "id": 13,
+    "question": "¿Que semilla molida se usa en el alguashte?",
+    "image": "",
+    "options": ["Semilla de ayote", "Semilla de marañon", "Semilla de girasol", "Semilla de chia"],
+    "correctAnswer": "Semilla de ayote",
+    "category": "gastronomia",
+    "difficulty": "media"
+  },
+  {
+    "id": 14,
+    "question": "¿Que pan dulce salvadoreno suele prepararse con queso?",
+    "image": "",
+    "options": ["Quesadilla", "Baguette", "Dona", "Pan de muerto"],
+    "correctAnswer": "Quesadilla",
+    "category": "gastronomia",
+    "difficulty": "facil"
+  },
+  {
+    "id": 15,
+    "question": "¿Que fruta se usa comunmente para hacer empanadas dulces salvadorenas?",
+    "image": "",
+    "options": ["Platano", "Manzana", "Pera", "Uva"],
+    "correctAnswer": "Platano",
+    "category": "gastronomia",
+    "difficulty": "facil"
+  },
+  {
+    "id": 16,
+    "question": "¿Que relleno pueden llevar las empanadas de platano salvadorenas?",
+    "image": "",
+    "options": ["Leche poleada o frijol", "Carne asada", "Queso azul", "Atun"],
+    "correctAnswer": "Leche poleada o frijol",
+    "category": "gastronomia",
+    "difficulty": "media"
+  },
+  {
+    "id": 17,
+    "question": "¿Que bebida tradicional puede ser fermentada y elaborada con maiz o frutas?",
+    "image": "",
+    "options": ["Chicha", "Te verde", "Soda", "Agua mineral"],
+    "correctAnswer": "Chicha",
+    "category": "gastronomia",
+    "difficulty": "media"
+  },
+  {
+    "id": 18,
+    "question": "¿Que comida salvadorena se prepara con tortilla gruesa rellena?",
+    "image": "",
+    "options": ["Pupusa", "Burrito", "Arepa", "Calzone"],
+    "correctAnswer": "Pupusa",
+    "category": "gastronomia",
+    "difficulty": "facil"
+  },
+  {
+    "id": 19,
+    "question": "¿Que ingrediente es comun en los tamales pisques?",
+    "image": "",
+    "options": ["Frijol", "Camaron", "Res", "Chocolate"],
+    "correctAnswer": "Frijol",
+    "category": "gastronomia",
+    "difficulty": "media"
+  },
+  {
+    "id": 20,
+    "question": "¿Que postre se prepara con pan, miel y especias durante temporadas festivas?",
+    "image": "",
+    "options": ["Torrejas", "Flan napolitano", "Gelatina", "Tiramisu"],
+    "correctAnswer": "Torrejas",
+    "category": "gastronomia",
+    "difficulty": "media"
+  },
+  {
+    "id": 21,
+    "question": "¿Que platillo lleva gallina india y arroz como acompanamiento frecuente?",
+    "image": "",
+    "options": ["Sopa de gallina india", "Ceviche", "Lasaña", "Paella"],
+    "correctAnswer": "Sopa de gallina india",
+    "category": "gastronomia",
+    "difficulty": "facil"
+  },
+  {
+    "id": 22,
+    "question": "¿Que ingrediente se usa para hacer chilate?",
+    "image": "",
+    "options": ["Maiz", "Cafe", "Cacao puro", "Arroz"],
+    "correctAnswer": "Maiz",
+    "category": "gastronomia",
+    "difficulty": "media"
+  },
+  {
+    "id": 23,
+    "question": "¿Con que suelen comerse los nuégados salvadorenos?",
+    "image": "",
+    "options": ["Miel de panela", "Mostaza", "Salsa de tomate", "Mayonesa"],
+    "correctAnswer": "Miel de panela",
+    "category": "gastronomia",
+    "difficulty": "media"
+  },
+  {
+    "id": 24,
+    "question": "¿Que producto agricola ha influido mucho en la gastronomia y economia salvadorena?",
+    "image": "",
+    "options": ["Cafe", "Trigo", "Oliva", "Cebada"],
+    "correctAnswer": "Cafe",
+    "category": "gastronomia",
+    "difficulty": "facil"
+  },
+  {
+    "id": 25,
+    "question": "¿Que antojito se hace con masa de maiz, se frie y suele llevar curtido?",
+    "image": "",
+    "options": ["Pastelito", "Falafel", "Tequeno", "Croqueta espanola"],
+    "correctAnswer": "Pastelito",
+    "category": "gastronomia",
+    "difficulty": "media"
+  }
+]

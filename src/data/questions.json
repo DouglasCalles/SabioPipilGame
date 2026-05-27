@@ -1,0 +1,198 @@
+[
+  {
+    "id": "gastronomia-1",
+    "category": "gastronomia",
+    "question": "Cual es el platillo tradicional mas representativo de El Salvador?",
+    "options": ["Pupusa", "Arepa", "Tamal mexicano", "Empanada argentina"],
+    "correctAnswer": "Pupusa"
+  },
+  {
+    "id": "gastronomia-2",
+    "category": "gastronomia",
+    "question": "Con que se acompanan comunmente las pupusas?",
+    "options": ["Curtido y salsa", "Arroz blanco", "Pure de papa", "Ensalada rusa"],
+    "correctAnswer": "Curtido y salsa"
+  },
+  {
+    "id": "gastronomia-3",
+    "category": "gastronomia",
+    "question": "Que bebida salvadorena se prepara con semillas de morro?",
+    "options": ["Horchata", "Chicha morada", "Mate", "Limonada"],
+    "correctAnswer": "Horchata"
+  },
+  {
+    "id": "gastronomia-4",
+    "category": "gastronomia",
+    "question": "Que atol tradicional se sirve usualmente con frijoles?",
+    "options": ["Atol shuco", "Atol de elote", "Chocolate caliente", "Arroz con leche"],
+    "correctAnswer": "Atol shuco"
+  },
+  {
+    "id": "gastronomia-5",
+    "category": "gastronomia",
+    "question": "Que ingrediente es base del riguas?",
+    "options": ["Elote", "Yuca", "Platano", "Arroz"],
+    "correctAnswer": "Elote"
+  },
+  {
+    "id": "gastronomia-6",
+    "category": "gastronomia",
+    "question": "Que comida tipica usa yuca cocida o frita como base?",
+    "options": ["Yuca con chicharron", "Sopa de res", "Pastelitos", "Pan con pollo"],
+    "correctAnswer": "Yuca con chicharron"
+  },
+  {
+    "id": "gastronomia-7",
+    "category": "gastronomia",
+    "question": "Que pan dulce salvadoreno suele tener forma alargada y sabor simple?",
+    "options": ["Salpora", "Semita", "Quesadilla", "Maria Luisa"],
+    "correctAnswer": "Salpora"
+  },
+  {
+    "id": "lugares-1",
+    "category": "lugares",
+    "question": "Que sitio arqueologico es conocido como la Pompeya de America?",
+    "options": ["Joya de Ceren", "Tazumal", "Cihuatan", "San Andres"],
+    "correctAnswer": "Joya de Ceren"
+  },
+  {
+    "id": "lugares-2",
+    "category": "lugares",
+    "question": "Que volcan se encuentra cerca de San Salvador?",
+    "options": ["El Boqueron", "Ilamatepec", "Chaparrastique", "Conchagua"],
+    "correctAnswer": "El Boqueron"
+  },
+  {
+    "id": "lugares-3",
+    "category": "lugares",
+    "question": "Que lago salvadoreno esta asociado con una caldera volcanica?",
+    "options": ["Lago de Ilopango", "Lago Titicaca", "Lago Yojoa", "Lago Atitlan"],
+    "correctAnswer": "Lago de Ilopango"
+  },
+  {
+    "id": "lugares-4",
+    "category": "lugares",
+    "question": "En que departamento esta el sitio arqueologico Tazumal?",
+    "options": ["Santa Ana", "La Union", "Morazan", "Usulutan"],
+    "correctAnswer": "Santa Ana"
+  },
+  {
+    "id": "lugares-5",
+    "category": "lugares",
+    "question": "Que playa es famosa para practicar surf en El Salvador?",
+    "options": ["El Tunco", "Copacabana", "Varadero", "Montanita"],
+    "correctAnswer": "El Tunco"
+  },
+  {
+    "id": "lugares-6",
+    "category": "lugares",
+    "question": "Que ruta turistica incluye pueblos como Juayua, Apaneca y Ataco?",
+    "options": ["Ruta de las Flores", "Ruta Maya", "Ruta del Cafe de Colombia", "Ruta del Sol"],
+    "correctAnswer": "Ruta de las Flores"
+  },
+  {
+    "id": "lugares-7",
+    "category": "lugares",
+    "question": "Que parque nacional protege un bosque nebuloso en Chalatenango?",
+    "options": ["El Pital", "Montecristo", "Walter Thilo Deininger", "El Imposible"],
+    "correctAnswer": "Montecristo"
+  },
+  {
+    "id": "historia-1",
+    "category": "historia",
+    "question": "Cual es la capital de El Salvador?",
+    "options": ["San Salvador", "Santa Ana", "San Miguel", "Sonsonate"],
+    "correctAnswer": "San Salvador"
+  },
+  {
+    "id": "historia-2",
+    "category": "historia",
+    "question": "En que fecha se conmemora la independencia de El Salvador?",
+    "options": ["15 de septiembre", "5 de noviembre", "24 de diciembre", "1 de mayo"],
+    "correctAnswer": "15 de septiembre"
+  },
+  {
+    "id": "historia-3",
+    "category": "historia",
+    "question": "Que pueblo indigena esta asociado al nombre Pipil?",
+    "options": ["Nahuas", "Incas", "Mapuches", "Tainos"],
+    "correctAnswer": "Nahuas"
+  },
+  {
+    "id": "historia-4",
+    "category": "historia",
+    "question": "Cual fue una importante ciudad indigena en el occidente salvadoreno?",
+    "options": ["Cuzcatlan", "Tenochtitlan", "Machu Picchu", "Copan"],
+    "correctAnswer": "Cuzcatlan"
+  },
+  {
+    "id": "historia-5",
+    "category": "historia",
+    "question": "Que producto tuvo gran importancia economica en la historia salvadorena?",
+    "options": ["Cafe", "Petroleo", "Diamantes", "Trigo"],
+    "correctAnswer": "Cafe"
+  },
+  {
+    "id": "historia-6",
+    "category": "historia",
+    "question": "Que nombre recibe la moneda usada antes del dolar en El Salvador?",
+    "options": ["Colon", "Peso", "Quetzal", "Cordoba"],
+    "correctAnswer": "Colon"
+  },
+  {
+    "id": "historia-7",
+    "category": "historia",
+    "question": "Que ciudad es conocida como la Ciudad Morena?",
+    "options": ["Santa Ana", "San Vicente", "Ahuachapan", "La Libertad"],
+    "correctAnswer": "Santa Ana"
+  },
+  {
+    "id": "tradiciones-1",
+    "category": "tradiciones-culturas",
+    "question": "Que celebracion se realiza cada agosto en honor al Divino Salvador del Mundo?",
+    "options": ["Fiestas Agostinas", "Semana Santa", "Dia de la Cruz", "Fiestas Julias"],
+    "correctAnswer": "Fiestas Agostinas"
+  },
+  {
+    "id": "tradiciones-2",
+    "category": "tradiciones-culturas",
+    "question": "Que tradicion salvadorena se celebra colocando una cruz adornada con frutas?",
+    "options": ["Dia de la Cruz", "Dia de los Farolitos", "Las Bolas de Fuego", "Talchiguales"],
+    "correctAnswer": "Dia de la Cruz"
+  },
+  {
+    "id": "tradiciones-3",
+    "category": "tradiciones-culturas",
+    "question": "Que idioma indigena tiene presencia historica en El Salvador?",
+    "options": ["Nawat", "Guarani", "Quechua", "Aimara"],
+    "correctAnswer": "Nawat"
+  },
+  {
+    "id": "tradiciones-4",
+    "category": "tradiciones-culturas",
+    "question": "En que municipio se celebra el Dia de los Farolitos?",
+    "options": ["Ahuachapan", "La Palma", "Ilobasco", "Suchitoto"],
+    "correctAnswer": "Ahuachapan"
+  },
+  {
+    "id": "tradiciones-5",
+    "category": "tradiciones-culturas",
+    "question": "Que artesania es famosa en Ilobasco?",
+    "options": ["Figuras de barro", "Sombreros de paja toquilla", "Textiles andinos", "Mascaras venecianas"],
+    "correctAnswer": "Figuras de barro"
+  },
+  {
+    "id": "tradiciones-6",
+    "category": "tradiciones-culturas",
+    "question": "Que danza tradicional representa una lucha entre moros y cristianos?",
+    "options": ["Historiantes", "Tango", "Jarabe tapatio", "Cueca"],
+    "correctAnswer": "Historiantes"
+  },
+  {
+    "id": "tradiciones-7",
+    "category": "tradiciones-culturas",
+    "question": "Que evento tradicional de Nejapa usa esferas encendidas?",
+    "options": ["Bolas de Fuego", "Torito Pinto", "Farolitos", "Festival del Jocote"],
+    "correctAnswer": "Bolas de Fuego"
+  }
+]

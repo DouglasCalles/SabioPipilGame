@@ -1,0 +1,227 @@
+[
+  {
+    "id": 1,
+    "question": "¿Cual es la capital de El Salvador?",
+    "image": "",
+    "options": ["San Salvador", "Santa Ana", "San Miguel", "Sonsonate"],
+    "correctAnswer": "San Salvador",
+    "category": "historia",
+    "difficulty": "facil"
+  },
+  {
+    "id": 2,
+    "question": "¿En que fecha se conmemora la independencia de El Salvador?",
+    "image": "",
+    "options": ["15 de septiembre", "5 de noviembre", "1 de mayo", "12 de octubre"],
+    "correctAnswer": "15 de septiembre",
+    "category": "historia",
+    "difficulty": "facil"
+  },
+  {
+    "id": 3,
+    "question": "¿Que pueblo indigena esta asociado con el nombre Pipil?",
+    "image": "",
+    "options": ["Nahuas", "Incas", "Mapuches", "Tainos"],
+    "correctAnswer": "Nahuas",
+    "category": "historia",
+    "difficulty": "facil"
+  },
+  {
+    "id": 4,
+    "question": "¿Cual fue una importante ciudad indigena en el territorio salvadoreno?",
+    "image": "",
+    "options": ["Cuzcatlan", "Tenochtitlan", "Machu Picchu", "Chichen Itza"],
+    "correctAnswer": "Cuzcatlan",
+    "category": "historia",
+    "difficulty": "media"
+  },
+  {
+    "id": 5,
+    "question": "¿Que producto fue clave para la economia salvadorena durante muchos anos?",
+    "image": "",
+    "options": ["Cafe", "Petroleo", "Diamantes", "Trigo"],
+    "correctAnswer": "Cafe",
+    "category": "historia",
+    "difficulty": "facil"
+  },
+  {
+    "id": 6,
+    "question": "¿Que moneda se usaba en El Salvador antes del dolar estadounidense?",
+    "image": "",
+    "options": ["Colon", "Peso", "Quetzal", "Cordoba"],
+    "correctAnswer": "Colon",
+    "category": "historia",
+    "difficulty": "facil"
+  },
+  {
+    "id": 7,
+    "question": "¿Que ciudad salvadorena es conocida como la Ciudad Morena?",
+    "image": "",
+    "options": ["Santa Ana", "San Vicente", "Ahuachapan", "La Union"],
+    "correctAnswer": "Santa Ana",
+    "category": "historia",
+    "difficulty": "media"
+  },
+  {
+    "id": 8,
+    "question": "¿Que procer salvadoreno es recordado por el primer grito de independencia?",
+    "image": "",
+    "options": ["Jose Matias Delgado", "Gerardo Barrios", "Francisco Morazan", "Manuel Jose Arce"],
+    "correctAnswer": "Jose Matias Delgado",
+    "category": "historia",
+    "difficulty": "media"
+  },
+  {
+    "id": 9,
+    "question": "¿En que ano ocurrio el primer grito de independencia en San Salvador?",
+    "image": "",
+    "options": ["1811", "1821", "1841", "1900"],
+    "correctAnswer": "1811",
+    "category": "historia",
+    "difficulty": "media"
+  },
+  {
+    "id": 10,
+    "question": "¿En que ano El Salvador adopto el dolar estadounidense como moneda de curso legal?",
+    "image": "",
+    "options": ["2001", "1992", "1980", "2010"],
+    "correctAnswer": "2001",
+    "category": "historia",
+    "difficulty": "media"
+  },
+  {
+    "id": 11,
+    "question": "¿Que acuerdo puso fin al conflicto armado salvadoreno?",
+    "image": "",
+    "options": ["Acuerdos de Paz de Chapultepec", "Tratado de Versalles", "Pacto de San Jose", "Tratado de Tordesillas"],
+    "correctAnswer": "Acuerdos de Paz de Chapultepec",
+    "category": "historia",
+    "difficulty": "media"
+  },
+  {
+    "id": 12,
+    "question": "¿En que ano se firmaron los Acuerdos de Paz de El Salvador?",
+    "image": "",
+    "options": ["1992", "1984", "2001", "1979"],
+    "correctAnswer": "1992",
+    "category": "historia",
+    "difficulty": "media"
+  },
+  {
+    "id": 13,
+    "question": "¿Que presidente salvadoreno es asociado con reformas liberales y el impulso del cafe?",
+    "image": "",
+    "options": ["Gerardo Barrios", "Jose Napoleon Duarte", "Maximiliano Hernandez Martinez", "Manuel Enrique Araujo"],
+    "correctAnswer": "Gerardo Barrios",
+    "category": "historia",
+    "difficulty": "dificil"
+  },
+  {
+    "id": 14,
+    "question": "¿Que lider indigena es recordado por la resistencia en la zona de Izalco?",
+    "image": "",
+    "options": ["Anastasio Aquino", "Atlacatl", "Atonal", "Lempira"],
+    "correctAnswer": "Atonal",
+    "category": "historia",
+    "difficulty": "dificil"
+  },
+  {
+    "id": 15,
+    "question": "¿Que lider nonualco encabezo una rebelion indigena y campesina en 1833?",
+    "image": "",
+    "options": ["Anastasio Aquino", "Jose Simeon Canas", "Pedro de Alvarado", "Francisco Morazan"],
+    "correctAnswer": "Anastasio Aquino",
+    "category": "historia",
+    "difficulty": "media"
+  },
+  {
+    "id": 16,
+    "question": "¿Que personaje es conocido por abolir la esclavitud en Centroamerica?",
+    "image": "",
+    "options": ["Jose Simeon Canas", "Gerardo Barrios", "Oscar Romero", "Manuel Jose Arce"],
+    "correctAnswer": "Jose Simeon Canas",
+    "category": "historia",
+    "difficulty": "media"
+  },
+  {
+    "id": 17,
+    "question": "¿Que pais conquisto gran parte del territorio salvadoreno durante la colonia?",
+    "image": "",
+    "options": ["Espana", "Francia", "Portugal", "Inglaterra"],
+    "correctAnswer": "Espana",
+    "category": "historia",
+    "difficulty": "facil"
+  },
+  {
+    "id": 18,
+    "question": "¿Que conquistador espanol participo en la conquista de Cuzcatlan?",
+    "image": "",
+    "options": ["Pedro de Alvarado", "Hernan Cortes", "Francisco Pizarro", "Cristobal Colon"],
+    "correctAnswer": "Pedro de Alvarado",
+    "category": "historia",
+    "difficulty": "media"
+  },
+  {
+    "id": 19,
+    "question": "¿Que nombre recibio la federacion a la que pertenecio El Salvador tras la independencia?",
+    "image": "",
+    "options": ["Republica Federal de Centro America", "Virreinato del Peru", "Gran Colombia", "Reino de Guatemala"],
+    "correctAnswer": "Republica Federal de Centro America",
+    "category": "historia",
+    "difficulty": "dificil"
+  },
+  {
+    "id": 20,
+    "question": "¿En que ano El Salvador se declaro republica independiente?",
+    "image": "",
+    "options": ["1841", "1821", "1811", "1901"],
+    "correctAnswer": "1841",
+    "category": "historia",
+    "difficulty": "dificil"
+  },
+  {
+    "id": 21,
+    "question": "¿Que arzobispo salvadoreno fue canonizado como santo?",
+    "image": "",
+    "options": ["Oscar Arnulfo Romero", "Jose Matias Delgado", "Arturo Rivera y Damas", "Gregorio Rosa Chavez"],
+    "correctAnswer": "Oscar Arnulfo Romero",
+    "category": "historia",
+    "difficulty": "facil"
+  },
+  {
+    "id": 22,
+    "question": "¿Que hecho historico de 1932 afecto gravemente a comunidades indigenas y campesinas?",
+    "image": "",
+    "options": ["La Matanza", "La Guerra del Futbol", "La independencia", "La dolarizacion"],
+    "correctAnswer": "La Matanza",
+    "category": "historia",
+    "difficulty": "dificil"
+  },
+  {
+    "id": 23,
+    "question": "¿Que conflicto de 1969 involucro a El Salvador y Honduras?",
+    "image": "",
+    "options": ["Guerra del Futbol", "Guerra de los Cien Anos", "Guerra del Pacifico", "Guerra de Reforma"],
+    "correctAnswer": "Guerra del Futbol",
+    "category": "historia",
+    "difficulty": "media"
+  },
+  {
+    "id": 24,
+    "question": "¿Cual es el nombre historico indigena asociado a la region central de El Salvador?",
+    "image": "",
+    "options": ["Cuzcatlan", "Cusco", "Tikal", "Texcoco"],
+    "correctAnswer": "Cuzcatlan",
+    "category": "historia",
+    "difficulty": "media"
+  },
+  {
+    "id": 25,
+    "question": "¿Que simbolo patrio salvadoreno incluye cinco volcanes?",
+    "image": "",
+    "options": ["Escudo nacional", "Flor nacional", "Ave nacional", "Mapa turistico"],
+    "correctAnswer": "Escudo nacional",
+    "category": "historia",
+    "difficulty": "facil"
+  }
+]

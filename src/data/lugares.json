@@ -1,0 +1,227 @@
+[
+  {
+    "id": 1,
+    "question": "¿Que sitio arqueologico salvadoreno es conocido como la Pompeya de America?",
+    "image": "",
+    "options": ["Joya de Ceren", "Tazumal", "Cihuatan", "San Andres"],
+    "correctAnswer": "Joya de Ceren",
+    "category": "lugares",
+    "difficulty": "facil"
+  },
+  {
+    "id": 2,
+    "question": "¿En que departamento se encuentra el sitio arqueologico Tazumal?",
+    "image": "",
+    "options": ["Santa Ana", "La Union", "Morazan", "Usulutan"],
+    "correctAnswer": "Santa Ana",
+    "category": "lugares",
+    "difficulty": "facil"
+  },
+  {
+    "id": 3,
+    "question": "¿Que volcan esta cerca de la ciudad de San Salvador?",
+    "image": "",
+    "options": ["El Boqueron", "Chaparrastique", "Conchagua", "Ilamatepec"],
+    "correctAnswer": "El Boqueron",
+    "category": "lugares",
+    "difficulty": "facil"
+  },
+  {
+    "id": 4,
+    "question": "¿Que playa salvadorena es famosa para practicar surf?",
+    "image": "",
+    "options": ["El Tunco", "Varadero", "Copacabana", "Montanita"],
+    "correctAnswer": "El Tunco",
+    "category": "lugares",
+    "difficulty": "facil"
+  },
+  {
+    "id": 5,
+    "question": "¿Que lago salvadoreno se formo en una caldera volcanica?",
+    "image": "",
+    "options": ["Lago de Ilopango", "Lago Titicaca", "Lago Yojoa", "Lago Atitlan"],
+    "correctAnswer": "Lago de Ilopango",
+    "category": "lugares",
+    "difficulty": "facil"
+  },
+  {
+    "id": 6,
+    "question": "¿Que ruta turistica incluye pueblos como Juayua, Apaneca y Ataco?",
+    "image": "",
+    "options": ["Ruta de las Flores", "Ruta del Sol", "Ruta Maya", "Ruta del Cafe de Colombia"],
+    "correctAnswer": "Ruta de las Flores",
+    "category": "lugares",
+    "difficulty": "facil"
+  },
+  {
+    "id": 7,
+    "question": "¿Cual es uno de los puntos mas altos de El Salvador?",
+    "image": "",
+    "options": ["Cerro El Pital", "Puerta del Diablo", "Cerro Verde", "Lago de Coatepeque"],
+    "correctAnswer": "Cerro El Pital",
+    "category": "lugares",
+    "difficulty": "media"
+  },
+  {
+    "id": 8,
+    "question": "¿Que lago es famoso por sus aguas azules y esta en Santa Ana?",
+    "image": "",
+    "options": ["Lago de Coatepeque", "Lago de Ilopango", "Laguna de Alegria", "Golfo de Fonseca"],
+    "correctAnswer": "Lago de Coatepeque",
+    "category": "lugares",
+    "difficulty": "facil"
+  },
+  {
+    "id": 9,
+    "question": "¿Que parque nacional protege parte de un bosque tropical en Ahuachapan y Sonsonate?",
+    "image": "",
+    "options": ["El Imposible", "Montecristo", "El Boqueron", "Walter Thilo Deininger"],
+    "correctAnswer": "El Imposible",
+    "category": "lugares",
+    "difficulty": "media"
+  },
+  {
+    "id": 10,
+    "question": "¿Que pueblo de Chalatenango es conocido por artesanias y clima fresco?",
+    "image": "",
+    "options": ["La Palma", "Conchagua", "Ilobasco", "Nahuizalco"],
+    "correctAnswer": "La Palma",
+    "category": "lugares",
+    "difficulty": "facil"
+  },
+  {
+    "id": 11,
+    "question": "¿Que sitio natural ofrece una vista panoramica cerca de Panchimalco?",
+    "image": "",
+    "options": ["Puerta del Diablo", "El Tunco", "Tazumal", "Cerro El Pital"],
+    "correctAnswer": "Puerta del Diablo",
+    "category": "lugares",
+    "difficulty": "facil"
+  },
+  {
+    "id": 12,
+    "question": "¿Que golfo comparte El Salvador con Honduras y Nicaragua?",
+    "image": "",
+    "options": ["Golfo de Fonseca", "Golfo de Mexico", "Golfo Dulce", "Golfo de Panama"],
+    "correctAnswer": "Golfo de Fonseca",
+    "category": "lugares",
+    "difficulty": "media"
+  },
+  {
+    "id": 13,
+    "question": "¿Que volcan de Santa Ana tambien es conocido como Ilamatepec?",
+    "image": "",
+    "options": ["Volcan de Santa Ana", "Volcan de San Miguel", "Volcan de Izalco", "Volcan Conchagua"],
+    "correctAnswer": "Volcan de Santa Ana",
+    "category": "lugares",
+    "difficulty": "media"
+  },
+  {
+    "id": 14,
+    "question": "¿Que volcan fue llamado el Faro del Pacifico?",
+    "image": "",
+    "options": ["Volcan de Izalco", "Volcan de San Salvador", "Volcan Conchagua", "Volcan Chingo"],
+    "correctAnswer": "Volcan de Izalco",
+    "category": "lugares",
+    "difficulty": "media"
+  },
+  {
+    "id": 15,
+    "question": "¿Que ciudad colonial es famosa por su lago, arte y arquitectura?",
+    "image": "",
+    "options": ["Suchitoto", "San Miguel", "Soyapango", "Zacatecoluca"],
+    "correctAnswer": "Suchitoto",
+    "category": "lugares",
+    "difficulty": "facil"
+  },
+  {
+    "id": 16,
+    "question": "¿Que laguna en Usulutan es conocida por su color verde esmeralda?",
+    "image": "",
+    "options": ["Laguna de Alegria", "Laguna El Jocotal", "Lago de Guija", "Lago de Coatepeque"],
+    "correctAnswer": "Laguna de Alegria",
+    "category": "lugares",
+    "difficulty": "media"
+  },
+  {
+    "id": 17,
+    "question": "¿Que playa de La Libertad es conocida por su muelle y restaurantes?",
+    "image": "",
+    "options": ["Puerto de La Libertad", "El Espino", "Las Flores", "Los Cobanos"],
+    "correctAnswer": "Puerto de La Libertad",
+    "category": "lugares",
+    "difficulty": "facil"
+  },
+  {
+    "id": 18,
+    "question": "¿Que area natural esta asociada con tortugas marinas y manglares?",
+    "image": "",
+    "options": ["Bahia de Jiquilisco", "Cerro Verde", "Tazumal", "El Pital"],
+    "correctAnswer": "Bahia de Jiquilisco",
+    "category": "lugares",
+    "difficulty": "media"
+  },
+  {
+    "id": 19,
+    "question": "¿Que parque nacional incluye los volcanes de Santa Ana, Izalco y Cerro Verde?",
+    "image": "",
+    "options": ["Complejo Los Volcanes", "El Imposible", "Montecristo", "El Boqueron"],
+    "correctAnswer": "Complejo Los Volcanes",
+    "category": "lugares",
+    "difficulty": "media"
+  },
+  {
+    "id": 20,
+    "question": "¿Que municipio es famoso por sus muebles y artesanias de madera?",
+    "image": "",
+    "options": ["Nahuizalco", "Metapan", "San Vicente", "Ilopango"],
+    "correctAnswer": "Nahuizalco",
+    "category": "lugares",
+    "difficulty": "media"
+  },
+  {
+    "id": 21,
+    "question": "¿Que ciudad oriental es conocida por su carnaval?",
+    "image": "",
+    "options": ["San Miguel", "Santa Tecla", "Ahuachapan", "Chalchuapa"],
+    "correctAnswer": "San Miguel",
+    "category": "lugares",
+    "difficulty": "facil"
+  },
+  {
+    "id": 22,
+    "question": "¿Que parque esta ubicado en la cima del volcan de San Salvador?",
+    "image": "",
+    "options": ["Parque Nacional El Boqueron", "Parque Cuscatlan", "Parque Balboa", "Parque Infantil"],
+    "correctAnswer": "Parque Nacional El Boqueron",
+    "category": "lugares",
+    "difficulty": "facil"
+  },
+  {
+    "id": 23,
+    "question": "¿Que playa del oriente salvadoreno es reconocida por sus olas?",
+    "image": "",
+    "options": ["Las Flores", "Costa del Sol", "Metalio", "El Zonte"],
+    "correctAnswer": "Las Flores",
+    "category": "lugares",
+    "difficulty": "media"
+  },
+  {
+    "id": 24,
+    "question": "¿Que lago comparte El Salvador con Guatemala?",
+    "image": "",
+    "options": ["Lago de Guija", "Lago de Coatepeque", "Lago de Ilopango", "Lago Suchitlan"],
+    "correctAnswer": "Lago de Guija",
+    "category": "lugares",
+    "difficulty": "media"
+  },
+  {
+    "id": 25,
+    "question": "¿Que embalse esta cerca de Suchitoto?",
+    "image": "",
+    "options": ["Lago Suchitlan", "Lago de Guija", "Laguna de Alegria", "Lago de Ilopango"],
+    "correctAnswer": "Lago Suchitlan",
+    "category": "lugares",
+    "difficulty": "media"
+  }
+]
