@@ -19,5 +19,10 @@ const questionsByCategory = {
 };
 
 export function getQuestionsByCategory(categoryId, limit = 7) {
-  return shuffleArray(questionsByCategory[categoryId] ?? []).slice(0, limit);
+  return shuffleArray(questionsByCategory[categoryId] ?? [])
+    .slice(0, limit)
+    .map((question) => ({
+      ...question,
+      options: shuffleArray(question.options),
+    }));
 }
